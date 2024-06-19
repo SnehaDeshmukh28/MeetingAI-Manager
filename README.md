@@ -1,2 +1,1 @@
-"# MeetingAI" 
 "# MeetingAI-Manager" 
