@@ -4,4 +4,4 @@
 
 ## Contact
 
-For questions or suggestions, feel free to contact us at [deshmusn@gmail.com](mailto:deshmusn@gmail.com).
+For questions or suggestions, feel free to contact me at [deshmusn@gmail.com](mailto:deshmusn@gmail.com).
