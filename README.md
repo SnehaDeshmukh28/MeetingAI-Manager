@@ -1,4 +1,4 @@
-## MeetingAI-Manager
+## MeetingAI-Manager using CrewAI
 
 
 
